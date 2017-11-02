@@ -9,6 +9,11 @@
         <ul class="contact-list">
           <li>{{ site.title }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {% if site.sign_up %}
+          <li>
+            {% include username=site.sign_up %}
+          </li>
+          {% endif %}
         </ul>
       </div>
 
