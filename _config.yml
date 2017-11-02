@@ -8,6 +8,7 @@
 # Site settings
 title: Life with Pi
 email: anne.ayanian@gmail.com
+sign_up: Fall math tutoring
 description: > # this means to ignore newlines until "baseurl:"
   Anne Ayanian's hand-selected resources to aid your Life with Pi!
 baseurl: "" # the subpath of your site, e.g. /blog
