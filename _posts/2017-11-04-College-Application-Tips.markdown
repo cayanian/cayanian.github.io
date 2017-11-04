@@ -26,14 +26,14 @@ How to Learn from the the Tour More than Just What Year the School was Founded -
   </ul>  
  
 Mastering the Humble Brag in Writing -- College Application (The Common App):
-  Application Essays
-    <ul>
-      <li>Coffee</li>
-      <li>Tea</li>
-      <li>Milk</li>
-    </ul>  
+   <ul>
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+   </ul>  
  
 Mastering the Humble Brag in Person -- College Interviews:
+
 [Can You Answer These 13 College Interview Questions? (CBS News)][13Qs]
   <ul>
     <li>coffee</li>
