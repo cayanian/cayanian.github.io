@@ -33,8 +33,8 @@ Mastering the Humble Brag in Writing -- College Application (The Common App):
    </ul>  
  
 Mastering the Humble Brag in Person -- College Interviews:
-
 [Can You Answer These 13 College Interview Questions? (CBS News)][13Qs]
+[College Interview Questions: Be Prepared for These Questsions (Thought Co.)][ThoCo]
   <ul>
     <li>coffee</li>
     <li>Tea</li>
@@ -53,5 +53,6 @@ We offer support in everything from Pre-Algebra to BC Calculus. Please check out
 Reach [General Documents][general-links].
 
 [13Qs]: https://www.cbsnews.com/news/can-you-answer-these-13-college-interview-questions/
+[ThoCo]: https://www.thoughtco.com/college-interview-questions-788893
 [general-links]: http://lifewithpi.com
 [course-specific-links]: http://lifewithpi.com
