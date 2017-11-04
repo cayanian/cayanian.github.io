@@ -34,8 +34,9 @@ Mastering the Humble Brag in Writing -- College Application (The Common App):
     </ul>  
  
 Mastering the Humble Brag in Person -- College Interviews:
+[Can You Answer These 13 College Interview Questions? (CBS News)][13Qs]
   <ul>
-    <li>[Can You Answer These 13 College Interview Questions? (CBS News)][13Qs]</li>
+    <li>coffee</li>
     <li>Tea</li>
     <li>Milk</li>
   </ul> 
