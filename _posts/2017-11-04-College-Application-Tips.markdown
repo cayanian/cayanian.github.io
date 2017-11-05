@@ -5,11 +5,9 @@ title:  "College Application Tips"
 Its the moment all your parents have been dreaming of. While this may be more the stuff of nightmares for applicants, have no fear, Life with Pi is here to help with copious (take note of work for SAT) wisdom as always!
 
 High School Summer Opportunities
-  <ul>
-    <li>Coffee</li>
-    <li>Tea</li>
-    <li>Milk</li>
-  </ul>  
+* Coffee
+* Tea
+* Milk  
  
 Standardized Test Preperation
   <ul>
@@ -33,8 +31,8 @@ Mastering the Humble Brag in Writing -- College Application (The Common App):
    </ul>  
  
 Mastering the Humble Brag in Person -- College Interviews:
-[Can You Answer These 13 College Interview Questions? (CBS News)][13Qs]
-[College Interview Questions: Be Prepared for These Questsions (Thought Co.)][ThoCo]
+* [Can You Answer These 13 College Interview Questions? (CBS News)][13Qs]
+* [College Interview Questions: Be Prepared for These Questsions (Thought Co.)][ThoCo]
   <ul>
     <li>coffee</li>
     <li>Tea</li>
