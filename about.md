@@ -20,4 +20,4 @@ You can find the source code for Jekyll at
 
 Image test:
 
-![Duke](/Users/cayanian/Downloads/Duke.jpg){:class="img-responsive"}
+![Duke](Duke.jpg)
