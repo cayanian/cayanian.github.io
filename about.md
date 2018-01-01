@@ -23,4 +23,4 @@ You can find the source code for Jekyll at
 
 Image test:
 
-![my photo](https://ivycoach.com/content/uploads/2013/09/Duke-Admissions-Essay.jpg)
+![](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/8/005/036/108/1971dd2.jpg)
