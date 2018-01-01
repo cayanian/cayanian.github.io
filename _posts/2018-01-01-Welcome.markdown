@@ -9,6 +9,4 @@ We offer support in everything from Pre-Algebra to BC Calculus. Please check out
 [general-links]: http://lifewithpi.com
 [course-specific-links]: http://lifewithpi.com
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![](https://i.pinimg.com/736x/a8/e9/c1/a8e9c11dfe9d7e5e43e52bab713e53b7--funny-math-math-jokes.jpg)
