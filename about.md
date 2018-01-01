@@ -20,4 +20,4 @@ You can find the source code for Jekyll at
 
 Image test:
 
-![Duke](Duke.jpg)
+![my photo](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiGkqnbsrfYAhXkmeAKHUlUBZoQjRwIBw&url=https%3A%2F%2Fwww.ivycoach.com%2Fthe-ivy-coach-blog%2Fcollege-essays%2Fduke-admissions-essay%2F&psig=AOvVaw29T5l575ozS9W_jgH9sfuu&ust=1514917792039111)
