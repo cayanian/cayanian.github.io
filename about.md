@@ -10,5 +10,5 @@ Anne Ayanian graduated from Duke University with a B.S.E. in Mechanical Engineer
 <br />
 <br />
 
-After having three perfect children whose company was too great to leave, she spent several years as a full-time mom. In 2009, she returned to the world of math as a math tutor, and has been enjoying introducing middle and high school math students across the nation to the wonderful Life with Pi ever since. 
+After having three children whose company was too great to leave, she spent several years as a full-time mom. In 2009, she returned to the world of math as a math tutor, and has been enjoying introducing middle and high school math students across the nation to the wonderful Life with Pi ever since. 
 
