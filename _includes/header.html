@@ -20,8 +20,10 @@
           {% endif %}
         {% endfor %}
       
-        {% include icon-sign_up.html username=site.sign_up %}
-<!-- <a href="{{site.sign_up}}">Schedule</a>            -->
+        {% if site.sign_up %}
+          {% include icon-sign_up.html username=site.sign_up %}
+        {% endif %}
+  <!-- <a href="{{site.sign_up}}">Schedule</a>            -->
       </div>
     </nav>
 
