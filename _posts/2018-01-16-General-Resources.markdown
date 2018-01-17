@@ -3,7 +3,7 @@ layout: post
 title:  "General Resource"
 ---
 
-|   	| Algebra I	| Geometry	| Algebra II	| Pre-Calculus	| Calculus |
+|   	| Algebra I	|| Geometry	| Algebra II	| Pre-Calculus	| Calculus |
 |:---------	|:---------:	|:---------:	|:---------:	|:---------:	|:---------:  |
 |||||||
 |[Khan Academy][Khan]	|x   	|x   	|x  	|x   	|x  |
