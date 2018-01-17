@@ -4,12 +4,12 @@ title:  "General Resource"
 ---
 
 |   	| Algebra I	|| Geometry	| Algebra II	| Pre-Calculus	| Calculus |
-|:---------	|:---------:	|:---------:	|:---------:	|:---------:	|:---------:  |
+|:---------	|:---------:	||:---------:	|:---------:	|:---------:	|:---------:  |
 |||||||
-|[Khan Academy][Khan]	|x   	|x   	|x  	|x   	|x  |
-|[FunBrain][FunB]	|x   	|   	|   	|   	|  |
-|[PatrickJMT][PJMT]	|x   	|   	| x  	|x   	|x  |
-|[Visual Calculus][VisCal]	|   	|   	|   	|x   	|x  |
+|[Khan Academy][Khan]	|x   	||x   	|x  	|x   	|x  |
+|[FunBrain][FunB]	|x   	||   	|   	|   	|  |
+|[PatrickJMT][PJMT]	|x   	||   	| x  	|x   	|x  |
+|[Visual Calculus][VisCal]	|   	||   	|   	|x   	|x  |
 
 
 [Khan]: https://www.khanacademy.org/
